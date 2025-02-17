@@ -114,7 +114,7 @@ const Events = () => {
               <p>28 января, 2025 год</p>
             </div>
             <h3 className="text-lg font-semibold text-gray-900 font-sans">
-              Мероприятие "3D печать и перспектива применения AI"
+              Мероприятие &quot;3D печать и перспектива применения AI&quot;
             </h3>
             <p className="text-gray-700 mt-2 text-sm font-sans">
               24 января 2025 года состоялась встреча с Анет Турсынжан, основателем центра аддитивных технологий Oner. 
